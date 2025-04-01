@@ -73,7 +73,7 @@
 			<a href="#projects" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
 				>Projects</a
 			>
-			<a href="#contact" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
+			<a href="#contact-form" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
 				>Contact</a
 			>
 		</div>
