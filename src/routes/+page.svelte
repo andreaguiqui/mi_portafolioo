@@ -64,16 +64,16 @@
 <header class="bg-opacity-80 top-0 left-0 z-50 w-full bg-white shadow-lg">
 	<nav class="container mx-auto flex items-center justify-between px-6 py-4">
 		<div class="hidden items-center space-x-4 md:flex">
-			<a href="about-me" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
+			<a href="#about-me" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
 				>About Me</a
 			>
-			<a href="skills" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
+			<a href="#skills" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
 				>Skills</a
 			>
-			<a href="projects" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
+			<a href="#projects" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
 				>Projects</a
 			>
-			<a href="contact" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
+			<a href="#contact" class="px-3 py-2 text-sm font-medium text-pink-700 hover:text-pink-900"
 				>Contact</a
 			>
 		</div>
